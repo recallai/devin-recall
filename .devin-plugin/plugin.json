@@ -1,0 +1,10 @@
+{
+  "name": "recall",
+  "version": "1.0.0",
+  "description": "Connect Devin to Recall.ai MCP for bot and DSDK investigations, usage, and billing.",
+  "author": {
+    "name": "Recall.ai"
+  },
+  "homepage": "https://docs.recall.ai/docs/docs-mcp",
+  "keywords": ["recall"]
+}
