@@ -1,10 +1,5 @@
 # Recall MCP for Devin
 
-A native Devin plugin using Recall's hosted Streamable HTTP MCP server.
-
-- `/recall:usage` — billed usage, bot hours, costs, commitments, and credits.
-- `/recall:join-failure` — bot lifecycle, logs, and documented join-failure investigation.
-
 ## Connect in Devin Cloud (OAuth)
 
 1. In [Devin Customize → Plugins](https://app.devin.ai/customize), choose **Personal**, then **Add plugin → From repository**. Enter `recallai/devin-recall` (or `https://github.com/recallai/devin-recall`). Leave the subdirectory blank.
